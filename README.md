@@ -1,56 +1,58 @@
-# 🤖 EduBotics: Your Gateway to Robotics and AI 🚀
+<div align="center">
 
-Welcome to **EduBotics**! This project is designed specifically for students and beginners to dive into the exciting world of robotics. With EduBotics, you can easily control robots, record their actions, and train powerful AI models to bring them to life. Let's start building the future, together!
+# 🎓 **EduBotics** 
+### *Die ultimative Schülerlernplattform für Robotik & KI*
 
-## ✨ Highlights
+![GitHub release](https://img.shields.io/github/v/release/SvenDanilBorodun/EduBotics?style=for-the-badge&color=brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Open%20Source-orange?style=for-the-badge)
 
-EduBotics is packed with features to make your journey into robotics as smooth and fun as possible:
+**🚀 Steuere Roboter • 📊 Sammle Daten • 🧠 Trainiere KI • 🤖 Erschaffe die Zukunft**
 
-*   **🕹️ Intuitive Robot Control:** Record datasets in minutes by controlling your robot with a keyboard, a gamepad, or even a leader arm.
-*   **⚡ One-Click AI Training:** Effortlessly train state-of-the-art imitation learning models like `ACT`, `π0`, or `gr00t-n1.5`.
-*   **🦾 Broad Hardware Compatibility:** Works seamlessly with popular robots like the SO-100, SO-101, Unitree Go2, and Agilex Piper.
-*   **📸 Versatile Camera Support:** Supports most camera types, including classic, depth, and stereo cameras, to give your robot vision.
-*   **🤗 Hugging Face & LeRobot Ready:** Fully compatible with the LeRobot and Hugging Face ecosystems, giving you access to a world of pre-trained models and tools.
-*   **🖥️ Cross-Platform:** Runs smoothly on **Windows**, **macOS**, and **Linux**.
-*   **🚪 Developer-Friendly API:** A simple and powerful API allows for easy extension and integration.
-*   **🔌 Open Source Spirit:** EduBotics is built to be extended! You can add your own custom robots and cameras. The full source code will be made publicly available soon to foster a collaborative and open community.
+---
 
-## ⚙️ Installation
+</div>
 
-Getting started is simple. Here’s how to set up EduBotics on your system.
+## 🌟 **Was macht EduBotics so besonders?**
 
-### Windows (Manual Setup)
+<table>
+<tr>
+<td width="50%">
 
-1.  **Download:** You can directly download the latest binary from our [releases page](https://github.com/SvenDanilBorodun/EduBotics-Solutions/releases).
-2.  **Run:** After downloading, open your Command Prompt or PowerShell and run EduBotics using the following command:
+### 🎮 **Kinderleichte Steuerung**
+- Roboter mit **Tastatur** steuern
+- **Gamepad-Support** für echtes Gaming-Feeling  
+- **Intuitive Weboberfläche** - kein Programmieren nötig!
 
-    ```bash
-    C:\path\to\edubotics.exe run
-    ```
+### 📸 **Alles im Blick**
+- **Kamera-Integration** für Roboter-Vision
+- **Echtzeit-Feedback** während der Steuerung
+- **Aufzeichnung** aller Bewegungen
 
-    > **Note:** Make sure to replace `C:\path\to\` with the actual folder path where you downloaded the file.
+</td>
+<td width="50%">
 
-#### **Pro-Tip 💡**
+### ⚡ **KI-Power für Schüler**
+- **Ein-Klick Training** von KI-Modellen
+- **ACT, π0, gr00t-n1.5** Models verfügbar
+- **Keine Vorkenntnisse** erforderlich
 
-To make launching EduBotics easier, we recommend you:
-1.  Rename the downloaded file to `EduBotics.exe`.
-2.  Move it to your Desktop.
-3.  You can then create a shortcut to launch `C:\Users\<your_username>\Desktop\EduBotics.exe run` from anywhere!
+### 🤖 **SO-100 Ready**
+- **Perfekt optimiert** für euren SO-100
+- **Plug & Play** - einfach anschließen
+- **Sofort einsatzbereit**
 
-## 🚀 How to Use
+</td>
+</tr>
+</table>
 
-Once installed, you can start the EduBotics application by running the following command in your terminal:
+---
 
+## 📥 **Installation - Schritt für Schritt**
+
+> **💡 Tipp:** Die Installation dauert nur 2 Minuten!
+
+### **🔽 Schritt 1: Download**
 ```bash
-EduBotics run
-```
-
-To stop the application at any time, simply press `Ctrl+C`.
-
-## 🤝 Contributing
-
-We welcome contributions of all kinds from the community! Whether you have an idea for a new feature, found a bug, or want to improve the documentation, please feel free to open an issue or submit a pull request on our GitHub page. Let's make robotics accessible to everyone!
-
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+# Geht zu den GitHub Releases und ladet die neueste Version herunter
+# Die Datei heißt: edubotics.exe
